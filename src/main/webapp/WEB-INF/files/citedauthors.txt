@@ -1,0 +1,68 @@
+Author: Trevor Hastie, Count: 4
+Author: Adam J. Rothman, Count: 2
+Author: Elizaveta Levina, Count: 2
+Author: Ji Zhu, Count: 2
+Author: Hui Zou, Count: 2
+Author: Nicolai Meinshausen, Count: 2
+Author: Peter Bühlmann, Count: 2
+Author: Jianqing Fan, Count: 2
+Author: Robert Tibshirani, Count: 2
+Author: D. Slonim, Count: 1
+Author: Kenneth Lange, Count: 1
+Author: Marc Teboulle, Count: 1
+Author: M. Yuan, Count: 1
+Author: Jack W. Silverstein, Count: 1
+Author: Pham Dinh Tao, Count: 1
+Author: A. P. Dempster, Count: 1
+Author: R. Horst, Count: 1
+Author: A. J. Rothman, Count: 1
+Author: E. Levina, Count: 1
+Author: Emmanuel J. Candès, Count: 1
+Author: Yi Fang Chen, Count: 1
+Author: Jerome Friedman, Count: 1
+Author: Peter J. Bickel, Count: 1
+Author: David R. Hunter, Count: 1
+Author: David L. Donoho, Count: 1
+Author: Jianhua Z. Huang, Count: 1
+Author: Martin J. Wainwright, Count: 1
+Author: Tong Tong Wu, Count: 1
+Author: J.A. Tropp, Count: 1
+Author: J. Friedman, Count: 1
+Author: T. S. Richardson, Count: 1
+Author: Le Thi Hoai An, Count: 1
+Author: M. Drton, Count: 1
+Author: J.J. Fuchs, Count: 1
+Author: Y. Lin, Count: 1
+Author: A. L. Yuille, Count: 1
+Author: J. Zhu, Count: 1
+Author: Naiping Liu, Count: 1
+Author: Yi Lin, Count: 1
+Author: Michael A. Saunders, Count: 1
+Author: P. Tamayo, Count: 1
+Author: Ming Yuan, Count: 1
+Author: I. S. Kohane, Count: 1
+Author: Yaniv Plan, Count: 1
+Author: S. Chaudhuri, Count: 1
+Author: Jinchi Lv, Count: 1
+Author: T. Hastie, Count: 1
+Author: Holger Höfling, Count: 1
+Author: Jonathan Taylor, Count: 1
+Author: Amir Beck, Count: 1
+Author: K. Sachs, Count: 1
+Author: Runze Li, Count: 1
+Author: Kshitij Khare, Count: 1
+Author: Linxu Liu, Count: 1
+Author: Mohsen Pourahmadi, Count: 1
+Author: Eric Sobel, Count: 1
+Author: N. V. Thoai, Count: 1
+Author: Bradley Efron, Count: 1
+Author: Ryan J. Tibshirani, Count: 1
+Author: R. Tibshirani, Count: 1
+Author: Bala Rajaratnam, Count: 1
+Author: Iain Johnstone, Count: 1
+Author: A. J. Butte, Count: 1
+Author: T. R. Golub, Count: 1
+Author: Yu. Nesterov, Count: 1
+Author: Anand Rangarajan, Count: 1
+Author: Clifford Lam, Count: 1
+Author: Scott Shaobing Chen, Count: 1

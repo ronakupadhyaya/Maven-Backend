@@ -1,0 +1,795 @@
+Author: Shuangge Ma, Count: 9
+Author: Jieping Ye, Count: 7
+Author: Jie Wang, Count: 6
+Author: Robert Tibshirani, Count: 5
+Author: Hui Zou, Count: 5
+Author: Mengyun Wu, Count: 4
+Author: Jian Huang, Count: 4
+Author: null null, Count: 4
+Author: Yi Yang, Count: 3
+Author: C. F. Jeff Wu, Count: 3
+Author: Simon Mak, Count: 3
+Author: Benjamin A. Logsdon, Count: 3
+Author: Yuehua Cui, Count: 3
+Author: Cen Wu, Count: 3
+Author: Fei Wang, Count: 3
+Author: Maksim Butsenko, Count: 2
+Author: Johan Sward, Count: 2
+Author: Stephen Reid, Count: 2
+Author: Baoxin Li, Count: 2
+Author: Ruiwen Zhang, Count: 2
+Author: Eric P. Xing, Count: 2
+Author: Tao Yang, Count: 2
+Author: Peter J. Ramadge, Count: 2
+Author: Zoran Obradovic, Count: 2
+Author: G. Ragozini, Count: 2
+Author: Jun Liu, Count: 2
+Author: Yashu Liu, Count: 2
+Author: Hua Zhou, Count: 2
+Author: Nadia Pérot, Count: 2
+Author: Andreas Jakobsson, Count: 2
+Author: Céline Helbert, Count: 2
+Author: Jacob Bien, Count: 2
+Author: Seunghak Lee, Count: 2
+Author: Simon Nanty, Count: 2
+Author: Ning Hao, Count: 2
+Author: Yangguang Zang, Count: 2
+Author: Clémentine Prieur, Count: 2
+Author: Doosung Hwang, Count: 2
+Author: Gautam Dasarathy, Count: 2
+Author: F. Palumbo, Count: 2
+Author: Jing Li, Count: 2
+Author: Chandan K. Reddy, Count: 2
+Author: Yang Li, Count: 2
+Author: M. R. D'Esposito, Count: 2
+Author: Su-In Lee, Count: 2
+Author: Kimberly M. Moore, Count: 2
+Author: Sangin Lee, Count: 2
+Author: Sanguo Zhang, Count: 2
+Author: Shuiwang Ji, Count: 2
+Author: Richard G. Baraniuk, Count: 2
+Author: Jin-Jia Wang, Count: 2
+Author: Qiongjie Tian, Count: 2
+Author: Parikshit Shah, Count: 2
+Author: Jeremy Bloxham, Count: 2
+Author: Jie Xiong, Count: 2
+Author: Zhitong Bing, Count: 2
+Author: Hao Helen Zhang, Count: 2
+Author: Paul M. Thompson, Count: 2
+Author: Halima Bensmail, Count: 2
+Author: Michael LeBlanc, Count: 2
+Author: Hongyu Zhao, Count: 2
+Author: Eric C. Chi, Count: 2
+Author: Hoai An Le Thi, Count: 2
+Author: Amandine Marrel, Count: 2
+Author: Hong Yan, Count: 2
+Author: Mikko J. Sillanpää, Count: 2
+Author: Holly Janes, Count: 1
+Author: Xiaotong Jiang, Count: 1
+Author: Peng Wei, Count: 1
+Author: Aurélie Lozano, Count: 1
+Author: Mani Vembar, Count: 1
+Author: A. J. Rothman, Count: 1
+Author: Patrick Breheny, Count: 1
+Author: Bo-Yu Chu, Count: 1
+Author: Gabriel E. Hoffman, Count: 1
+Author: Karolina A. Aberg, Count: 1
+Author: Kenneth S. Knox, Count: 1
+Author: Anita Crescenzi, Count: 1
+Author: Divyanshu Vats, Count: 1
+Author: Eigil Samset, Count: 1
+Author: P Monica Lind, Count: 1
+Author: Xavier Basagaña, Count: 1
+Author: Damien Portevin, Count: 1
+Author: Sarah D. Isaacs, Count: 1
+Author: Chirag J. Patel, Count: 1
+Author: Sue Hsieh, Count: 1
+Author: Iain A. D. Gunn, Count: 1
+Author: Liyun Miao, Count: 1
+Author: Natalia Bailey, Count: 1
+Author: Rong Li, Count: 1
+Author: Joseph E. Powell, Count: 1
+Author: Xiaojie Guo, Count: 1
+Author: Ruoqing Zhu, Count: 1
+Author: Nathan J. Palpant, Count: 1
+Author: Inci M. Baytas, Count: 1
+Author: S. Shankar Sastry, Count: 1
+Author: Marjolein Luman, Count: 1
+Author: Nurgazy Sulaimanov, Count: 1
+Author: Song Ding, Count: 1
+Author: Russ B. Altman, Count: 1
+Author: Piotr Zwiernik, Count: 1
+Author: Jia-Sheng Heh, Count: 1
+Author: J. Heather, Count: 1
+Author: JinTao Li, Count: 1
+Author: Z Sun, Count: 1
+Author: Dirk J. Heslenfeld, Count: 1
+Author: Charles Kooperberg, Count: 1
+Author: Daniela Witten, Count: 1
+Author: Zhi Tian, Count: 1
+Author: Timothy J.C. Bruxner, Count: 1
+Author: Tao Pham Dinh, Count: 1
+Author: Sheng Tang, Count: 1
+Author: Philippe Donnat, Count: 1
+Author: Alessio Pecori, Count: 1
+Author: Wei Liu, Count: 1
+Author: Yawei He, Count: 1
+Author: Anna Monreale, Count: 1
+Author: V. Susheela Devi, Count: 1
+Author: Hanspeter Marti, Count: 1
+Author: Bin Zhu, Count: 1
+Author: null Guitao Cao, Count: 1
+Author: Tomasz Moroń, Count: 1
+Author: Bethany Percha, Count: 1
+Author: Le Ou-Yang, Count: 1
+Author: Huijun Wu, Count: 1
+Author: Jo Røislien, Count: 1
+Author: Trevor Hastie, Count: 1
+Author: Yuan Zhu, Count: 1
+Author: Xiaodong Cai, Count: 1
+Author: D. M. Titterington, Count: 1
+Author: S. Lilly Zheng, Count: 1
+Author: Steven T. Shipley, Count: 1
+Author: Boxiang Wang, Count: 1
+Author: Daniel Taylor-Rodriguez, Count: 1
+Author: Bao-Gang Peng, Count: 1
+Author: Geraldine Cancel-Tassin, Count: 1
+Author: Yichen Qin, Count: 1
+Author: Baekjin Kim, Count: 1
+Author: John L. Jørgensen, Count: 1
+Author: H Raza Ali, Count: 1
+Author: Yanwen Qin, Count: 1
+Author: Xiao-Lin Xu, Count: 1
+Author: Yu-Hung Chang, Count: 1
+Author: Yongxiang Wei, Count: 1
+Author: Brett Naul, Count: 1
+Author: Doo-Sung Hwang, Count: 1
+Author: Jader Giraldo Guzmán, Count: 1
+Author: Mario Souto, Count: 1
+Author: Wei Fan, Count: 1
+Author: Daan Odijk, Count: 1
+Author: Elvis Dohmatob, Count: 1
+Author: Michel Solignac, Count: 1
+Author: M. Noursadeghi, Count: 1
+Author: Menggang Yu, Count: 1
+Author: Yun Wang, Count: 1
+Author: Daniel Maposa, Count: 1
+Author: Christopher J. Nachtsheim, Count: 1
+Author: Marcela I. Cespedes, Count: 1
+Author: Jianfeng Xu, Count: 1
+Author: Ruofei Du, Count: 1
+Author: FM Blows, Count: 1
+Author: Stefanie Knopp, Count: 1
+Author: Bertrand Thirion, Count: 1
+Author: James G. Booth, Count: 1
+Author: David C. Woods, Count: 1
+Author: Alfred Wertner, Count: 1
+Author: Yu-Ping Wang, Count: 1
+Author: Moti Freiman, Count: 1
+Author: Jun S. Liu, Count: 1
+Author: Jasper Engel, Count: 1
+Author: Jashmi Lagisetty, Count: 1
+Author: Christiane Maier, Count: 1
+Author: Chao-Qiang Lai, Count: 1
+Author: T. D. Solberg, Count: 1
+Author: Nino Fijacko, Count: 1
+Author: Ash A. Alizadeh, Count: 1
+Author: Lue Ping Zhao, Count: 1
+Author: Yannick Malevergne, Count: 1
+Author: Kerrie Mengersen, Count: 1
+Author: Crystal T. Nguyen, Count: 1
+Author: Gerald Perrin, Count: 1
+Author: Xingjie Shi, Count: 1
+Author: Stéphane Robin, Count: 1
+Author: Shaunna L. Clark, Count: 1
+Author: Dongdong Chen, Count: 1
+Author: Joshua D Kangas, Count: 1
+Author: FeiDie Liang, Count: 1
+Author: Edwin J. C. G. van den Oord, Count: 1
+Author: Yanlin Su, Count: 1
+Author: Qing Ling, Count: 1
+Author: Farit Mochamad Afendi, Count: 1
+Author: Shaun Riska, Count: 1
+Author: Kun Li, Count: 1
+Author: S Liu, Count: 1
+Author: Xinwei Deng, Count: 1
+Author: Massimo Stafoggia, Count: 1
+Author: James Y. Dai, Count: 1
+Author: Luo Xiao, Count: 1
+Author: Keith Ying, Count: 1
+Author: A. V. Wilkinson, Count: 1
+Author: Kathleen A. Cooney, Count: 1
+Author: Zengyan Fan, Count: 1
+Author: Parvin Tajik, Count: 1
+Author: Mostafa Rahmani, Count: 1
+Author: Jacek Leski, Count: 1
+Author: Xiaoning Kang, Count: 1
+Author: Caroline Uhler, Count: 1
+Author: Alessandro Verri, Count: 1
+Author: Cynthia Rudin, Count: 1
+Author: David Firth, Count: 1
+Author: Aston Zhang, Count: 1
+Author: Liang Zhan, Count: 1
+Author: Alexandros Kalousis, Count: 1
+Author: Remi Gribonval, Count: 1
+Author: K. Khare, Count: 1
+Author: Eric Jougla, Count: 1
+Author: Barbara Franke, Count: 1
+Author: Abdigani Diriye, Count: 1
+Author: Zsofia Kote-Jarai, Count: 1
+Author: Salvatore Ruggieri, Count: 1
+Author: Jun Fan, Count: 1
+Author: Xiu-Feng Wan, Count: 1
+Author: Jurgen Fripp, Count: 1
+Author: Murendeni Nemukula, Count: 1
+Author: Lauren Steimle, Count: 1
+Author: PD Pharoah, Count: 1
+Author: Shun-Li Shen, Count: 1
+Author: Vivian Viallon, Count: 1
+Author: Tao Pham Dinh, Count: 1
+Author: Liesel M. Fitzgerald, Count: 1
+Author: Francesc Mestres, Count: 1
+Author: Mohamed El Anbari, Count: 1
+Author: Yanyan Liu, Count: 1
+Author: Dominique Vautrin, Count: 1
+Author: Charles Lovell, Count: 1
+Author: Mara Rendi, Count: 1
+Author: Mohammad Hadi Zafarmand, Count: 1
+Author: Juan Pablo Fernandez, Count: 1
+Author: Jean-Daniel Zucker, Count: 1
+Author: SHAO-KUAN WEI, Count: 1
+Author: Viktoria Pammer-Schindler, Count: 1
+Author: Jaideep Srivastava, Count: 1
+Author: Sam Behseta, Count: 1
+Author: Cathy Laurie, Count: 1
+Author: Han Liu, Count: 1
+Author: Xiaotong Suo, Count: 1
+Author: Kimberly A. Zuhlke, Count: 1
+Author: James McGree, Count: 1
+Author: Allison E. Ashley-Koch, Count: 1
+Author: Shayan Doroudi, Count: 1
+Author: Elaine A. Ostrander, Count: 1
+Author: Lutgarde Buydens, Count: 1
+Author: Jin J. Zhou, Count: 1
+Author: Jaap Kamps, Count: 1
+Author: Bradley Jones, Count: 1
+Author: Ivan Stojkovic, Count: 1
+Author: Regina Hampel, Count: 1
+Author: C.A. Martínez, Count: 1
+Author: Manfred Wenzel, Count: 1
+Author: B. Chain, Count: 1
+Author: M. D. Koslovsky, Count: 1
+Author: Shawn T. O'Neil, Count: 1
+Author: He Jiang, Count: 1
+Author: Zhen James Xiang, Count: 1
+Author: Annie Qu, Count: 1
+Author: Valentina Lami, Count: 1
+Author: Miguel Angel Moreno-Mateos, Count: 1
+Author: Defeng Deng, Count: 1
+Author: Claire J. Tomlin, Count: 1
+Author: Armaghan W Naik, Count: 1
+Author: Irina Gaynanova, Count: 1
+Author: Takanobu Nakahara, Count: 1
+Author: Lingling An, Count: 1
+Author: Gerard van Grootheest, Count: 1
+Author: Sanjay Chawla, Count: 1
+Author: Francis Mhimbira, Count: 1
+Author: Taylor M. Oshan, Count: 1
+Author: Toshiki Sato, Count: 1
+Author: Dejing Dou, Count: 1
+Author: Angela Fessl, Count: 1
+Author: Christian Kästner, Count: 1
+Author: M. Bellerive, Count: 1
+Author: Han Sheng Chiu, Count: 1
+Author: Amy Kim, Count: 1
+Author: E Provenzano, Count: 1
+Author: Joseph Pidala, Count: 1
+Author: Pertti Vakkari, Count: 1
+Author: Jeff Schneider, Count: 1
+Author: Gautier Marti, Count: 1
+Author: Jaejik Kim, Count: 1
+Author: YaLin Zhang, Count: 1
+Author: Gwangsu Kim, Count: 1
+Author: Alex Dmitrienko, Count: 1
+Author: Jason G. Mezey, Count: 1
+Author: Anna M. Seekatz, Count: 1
+Author: Y Zhao, Count: 1
+Author: Fosca Giannotti, Count: 1
+Author: Danfei Shen, Count: 1
+Author: CHIH-YU KUO, Count: 1
+Author: Arianna Di Florio, Count: 1
+Author: Quanquan Gu, Count: 1
+Author: David E. Moorman, Count: 1
+Author: Heinz Koeppl, Count: 1
+Author: Claire M. Fraser, Count: 1
+Author: Timothy Hunter, Count: 1
+Author: Jia Hou, Count: 1
+Author: Jo Eidsvik, Count: 1
+Author: Marcelo B. Sztein, Count: 1
+Author: Shigehiko Kanaya, Count: 1
+Author: Danel Draguljić, Count: 1
+Author: Grégoire Rey, Count: 1
+Author: Michael B. Sohn, Count: 1
+Author: Hongbo Dong, Count: 1
+Author: Emilie Lebarbier, Count: 1
+Author: Catharina A. Hartman, Count: 1
+Author: Maureen Smith, Count: 1
+Author: J. Idier, Count: 1
+Author: N. Simpson, Count: 1
+Author: C. Y. Hung, Count: 1
+Author: Zehua Chen, Count: 1
+Author: Ludmila I. Kuncheva, Count: 1
+Author: Maximilian Diehn, Count: 1
+Author: Francesca Frassi, Count: 1
+Author: Jerome Thai, Count: 1
+Author: Antje Rinckleb, Count: 1
+Author: Michael R. Kosorok, Count: 1
+Author: George Atia, Count: 1
+Author: Alexandre M. Bayen, Count: 1
+Author: null Junbo Duan, Count: 1
+Author: Kaixiang Lin, Count: 1
+Author: Xingqiu Zhao, Count: 1
+Author: Bo Zhou, Count: 1
+Author: Chih-Jen Lin, Count: 1
+Author: Hannes Nickisch, Count: 1
+Author: Claudia Daubenberger, Count: 1
+Author: Aniket Kittur, Count: 1
+Author: Brian T. Denton, Count: 1
+Author: Andrey A. Shabalin, Count: 1
+Author: C. Jason Liang, Count: 1
+Author: D. BIRANT, Count: 1
+Author: Michael T. Lawson, Count: 1
+Author: Åke Lernmark, Count: 1
+Author: Xiao-Min Hu, Count: 1
+Author: Karine Clement, Count: 1
+Author: Stefan Michiels, Count: 1
+Author: Lie Wang, Count: 1
+Author: Nicolas Beaume, Count: 1
+Author: Wei Qian, Count: 1
+Author: Robert Capra, Count: 1
+Author: Siri D. S. Noordermeer, Count: 1
+Author: Yuwen Gu, Count: 1
+Author: Zhilin Zhang, Count: 1
+Author: Veronica Vinciotti, Count: 1
+Author: Shuang Qiu, Count: 1
+Author: Chia-Hua Ho, Count: 1
+Author: Daniel J. Schaid, Count: 1
+Author: Brenda W. J. H. Penninx, Count: 1
+Author: Hristina Pashova, Count: 1
+Author: Dao-Qing Dai, Count: 1
+Author: Duy Nhat Phan, Count: 1
+Author: Graham G. Giles, Count: 1
+Author: Zhaonan Sun, Count: 1
+Author: Pinghua Gong, Count: 1
+Author: Rosalind A. Eeles, Count: 1
+Author: Hao Zheng, Count: 1
+Author: Federico Rotolo, Count: 1
+Author: Shun Hang Chan, Count: 1
+Author: Wouter D. Weeda, Count: 1
+Author: Franco Turini, Count: 1
+Author: V. Roshan Joseph, Count: 1
+Author: Janet L. Stanford, Count: 1
+Author: Emily Vardell, Count: 1
+Author: Joel Coste, Count: 1
+Author: Johanna Schleutker, Count: 1
+Author: Qian Sun, Count: 1
+Author: Genevera I. Allen, Count: 1
+Author: Veronica Tozzo, Count: 1
+Author: Rodney A. Hayward, Count: 1
+Author: Donghyeon Yu, Count: 1
+Author: Yu Zhang, Count: 1
+Author: Yu-Min Yen, Count: 1
+Author: Juan Andrés Bazerque, Count: 1
+Author: Vanessa Didelez, Count: 1
+Author: Maxim Grechkin, Count: 1
+Author: Brian J. Reich, Count: 1
+Author: Hamed Haselimashhadi, Count: 1
+Author: Cristiano Varin, Count: 1
+Author: Minnie M Sarwal, Count: 1
+Author: Sese Wang, Count: 1
+Author: Sanjay Basu, Count: 1
+Author: Paul J Martin, Count: 1
+Author: Hyun-Jong Lee, Count: 1
+Author: Craig C. Teerlink, Count: 1
+Author: Yuichi Takano, Count: 1
+Author: Latifah K. Darusman, Count: 1
+Author: Aaron M. Newman, Count: 1
+Author: Lu Wang, Count: 1
+Author: Benjamin Sanchez, Count: 1
+Author: Michael Eickenberg, Count: 1
+Author: Melanie Feinberg, Count: 1
+Author: Min Zhao, Count: 1
+Author: José M. G. Merayo, Count: 1
+Author: Jan K. Buitelaar, Count: 1
+Author: Sean Holly, Count: 1
+Author: Debra Davis, Count: 1
+Author: Donald Richards, Count: 1
+Author: Eunshin Byon, Count: 1
+Author: J. T. Kemppainen, Count: 1
+Author: Gregory McCarthy, Count: 1
+Author: Congrui Yi, Count: 1
+Author: Patrick C. Walsh, Count: 1
+Author: PJ Newcombe, Count: 1
+Author: Jianhua Hu, Count: 1
+Author: Yang Feng, Count: 1
+Author: Liang Xiong, Count: 1
+Author: Veljko Milutinovic, Count: 1
+Author: Vigor Yang, Count: 1
+Author: S Richardson, Count: 1
+Author: Daniel J. Luckett, Count: 1
+Author: William J. Catalona, Count: 1
+Author: Mahmoud Soua, Count: 1
+Author: Cynthia Langan, Count: 1
+Author: Nikolay Bliznyuk, Count: 1
+Author: M. O. Kuismin, Count: 1
+Author: R. Scheuermann, Count: 1
+Author: Devin P Sullivan, Count: 1
+Author: M.A. Elzo, Count: 1
+Author: Anne Senabouth, Count: 1
+Author: Shiang-Ting Yeh, Count: 1
+Author: Ilya Lipkovich, Count: 1
+Author: Marc H. Taylor, Count: 1
+Author: R. David Hawkins, Count: 1
+Author: Andrew Womack, Count: 1
+Author: Valentin Emiya, Count: 1
+Author: Arkopal Choudhury, Count: 1
+Author: Manuel Luedeke, Count: 1
+Author: Chieh-Yen Lin, Count: 1
+Author: Marco Loog, Count: 1
+Author: Ehsan Elhamifar, Count: 1
+Author: Anna M. Ray, Count: 1
+Author: Qingyang Li, Count: 1
+Author: Gaurav Kumar, Count: 1
+Author: A. Stewart Fotheringham, Count: 1
+Author: Jie Yin, Count: 1
+Author: Hamid Bolouri, Count: 1
+Author: Vladisav Jelisavcic, Count: 1
+Author: Elke Hertig, Count: 1
+Author: G. Valdes, Count: 1
+Author: Dan Meng, Count: 1
+Author: Erik Lampa, Count: 1
+Author: Yongdai Kim, Count: 1
+Author: Hao Wang, Count: 1
+Author: Aruna Panda, Count: 1
+Author: M. J. Sillanpää, Count: 1
+Author: Melissa C. Southey, Count: 1
+Author: Alexander Grebhahn, Count: 1
+Author: Quan H. Nguyen, Count: 1
+Author: Antonio J. Giraldez, Count: 1
+Author: Martin T. Wells, Count: 1
+Author: Khalid Ohmiti, Count: 1
+Author: Suwon Suh, Count: 1
+Author: Gustavo C. Amaral, Count: 1
+Author: Boris Delibasic, Count: 1
+Author: Jing Zhai, Count: 1
+Author: Edmund Jones, Count: 1
+Author: Yang Lu, Count: 1
+Author: Olivier Cussenot, Count: 1
+Author: Patrice Abry, Count: 1
+Author: Ross L. Prentice, Count: 1
+Author: Yuri Milaneschi, Count: 1
+Author: Yiyuan She, Count: 1
+Author: Andre Gohr, Count: 1
+Author: Younghee Hong, Count: 1
+Author: Samuel W. Lukowski, Count: 1
+Author: Barnabas Poczos, Count: 1
+Author: Md Altaf-Ul-Amin, Count: 1
+Author: Tuo Zhao, Count: 1
+Author: Ray Liu, Count: 1
+Author: Greg Hather, Count: 1
+Author: Stephen N. Thibodeau, Count: 1
+Author: Berk Ustun, Count: 1
+Author: Lisa Cannon-Albright, Count: 1
+Author: Petra Povalej Brzan, Count: 1
+Author: Patrick Donnelly, Count: 1
+Author: null Danfei Shen, Count: 1
+Author: Itziar Irigoien, Count: 1
+Author: Fei Wen, Count: 1
+Author: T. Matjeka, Count: 1
+Author: Adam S. Brown, Count: 1
+Author: Kush Kapur, Count: 1
+Author: David A. Rasko, Count: 1
+Author: Jose M. Ordovas, Count: 1
+Author: Eric Horvitz, Count: 1
+Author: Meng-Yun Wu, Count: 1
+Author: Siyuan Liu, Count: 1
+Author: Mary ED Flowers, Count: 1
+Author: Bani K. Mallick, Count: 1
+Author: Seungjin Choi, Count: 1
+Author: Soonho Kong, Count: 1
+Author: Pi Guo, Count: 1
+Author: Massimo Santini, Count: 1
+Author: Chun Chen, Count: 1
+Author: Jaap Oosterlaan, Count: 1
+Author: Abdul Q. Khan, Count: 1
+Author: Gregor Stiglic, Count: 1
+Author: Lakhpat Meena, Count: 1
+Author: Qingzhao Zhang, Count: 1
+Author: Liyao Han, Count: 1
+Author: Markku Kuismin, Count: 1
+Author: Gene Golovchinsky, Count: 1
+Author: Yan Li, Count: 1
+Author: Bhaskar D. Rao, Count: 1
+Author: Seyong Shim, Count: 1
+Author: Zhuo Sun, Count: 1
+Author: Marie-Anne Poursat, Count: 1
+Author: Hidetoshi Matsui, Count: 1
+Author: Joaquim D. Garcia, Count: 1
+Author: N. Thomas, Count: 1
+Author: Lionel Blanchet, Count: 1
+Author: Anayo K. Akametalu, Count: 1
+Author: Ahmed Hassan Awadallah, Count: 1
+Author: Kathleen E. Wiley, Count: 1
+Author: Jared D. Huling, Count: 1
+Author: Norbert Siegmund, Count: 1
+Author: Patrick M. Bossuyt, Count: 1
+Author: Shiqian Ma, Count: 1
+Author: Sparkle Malone, Count: 1
+Author: Yu Wang, Count: 1
+Author: Karthik K. Padthe, Count: 1
+Author: Zhifeng Wang, Count: 1
+Author: Stephanie J Lee, Count: 1
+Author: Csilla Sipeky, Count: 1
+Author: Joungyoun Kim, Count: 1
+Author: Zheng Fang, Count: 1
+Author: P. YILDIRIM, Count: 1
+Author: Noah Simon, Count: 1
+Author: Yimin Wen, Count: 1
+Author: Tony Dunnigan, Count: 1
+Author: Charles W. Drescher, Count: 1
+Author: Nikita Mishra, Count: 1
+Author: Xiaotong Shen, Count: 1
+Author: Guillermo Sapiro, Count: 1
+Author: Xiao-Fei Zhang, Count: 1
+Author: John D. Lafferty, Count: 1
+Author: M. Hashem Pesaran, Count: 1
+Author: Christopher I. Amos, Count: 1
+Author: Zheng Zhao, Count: 1
+Author: Irena Kaspar-Ott, Count: 1
+Author: Hao Xu, Count: 1
+Author: Fang-Fang Zeng, Count: 1
+Author: Hessam Sadatsafavi, Count: 1
+Author: A. Olszanski, Count: 1
+Author: Ralph B., Count: 1
+Author: Ahmed O. Nasif, Count: 1
+Author: Wang-Jian Zhang, Count: 1
+Author: Patrizia Amelio, Count: 1
+Author: Susan T. Dumais, Count: 1
+Author: Homer L. Twigg, Count: 1
+Author: Klaus Reither, Count: 1
+Author: Changqing Zhang, Count: 1
+Author: Youngjo Lee, Count: 1
+Author: W. Chan, Count: 1
+Author: Can Yang, Count: 1
+Author: Antoine Bonnefoy, Count: 1
+Author: Peng Wang, Count: 1
+Author: Liming Zhu, Count: 1
+Author: Michael Zhao, Count: 1
+Author: Leon Wenliang Zhong, Count: 1
+Author: Alessandra Eugenia Bionda, Count: 1
+Author: Chih-Li Sung, Count: 1
+Author: Rebecca S. Taylor, Count: 1
+Author: Angelika N. Christ, Count: 1
+Author: Yoshi Inamoto, Count: 1
+Author: Sebastian J. Teran Hidalgo, Count: 1
+Author: Derrek P. Hibar, Count: 1
+Author: Zarrar Shehzad, Count: 1
+Author: Martin Losch, Count: 1
+Author: Xue Jiang, Count: 1
+Author: Nhathai Phan, Count: 1
+Author: Keith Dillon, Count: 1
+Author: Jonathan Taylor, Count: 1
+Author: William B. Isaacs, Count: 1
+Author: Emiley A. Eloe-Fadrosh, Count: 1
+Author: Alessandro Cipriano, Count: 1
+Author: Tristan Mary-Huard, Count: 1
+Author: Thomas J. Scriba, Count: 1
+Author: Yudi Pawitan, Count: 1
+Author: Robin F. Chan, Count: 1
+Author: Rostom Kachouri, Count: 1
+Author: Kristin Qi, Count: 1
+Author: Miju Ahn, Count: 1
+Author: Thomas A. Badgwell, Count: 1
+Author: Brigitte Piniewski, Count: 1
+Author: Xiaochun Cao, Count: 1
+Author: Juhyun Kim, Count: 1
+Author: Pingmei Xu, Count: 1
+Author: Maxmillian Mpina, Count: 1
+Author: Zhi Xu, Count: 1
+Author: Federico Tomasi, Count: 1
+Author: Cecelia Laurie, Count: 1
+Author: Jianzhong Ma, Count: 1
+Author: D. Brie, Count: 1
+Author: Se-Yong Shim, Count: 1
+Author: Sven Apel, Count: 1
+Author: Gael Varoquaux, Count: 1
+Author: Lars Lind, Count: 1
+Author: PI-WEN TSAI, Count: 1
+Author: Ethan M. Lange, Count: 1
+Author: Prabhanjan Kambadur, Count: 1
+Author: Hernando Ombao, Count: 1
+Author: Guoyong Cai, Count: 1
+Author: Georg Heinze, Count: 1
+Author: Jingxiang Chen, Count: 1
+Author: Caston Sigauke, Count: 1
+Author: Ding-Mei Zhang, Count: 1
+Author: null Yu-Ping Wang, Count: 1
+Author: Simon Demers, Count: 1
+Author: James T. Kwok, Count: 1
+Author: Anyou Wang, Count: 1
+Author: Monica Chaudhari, Count: 1
+Author: Safiye Celik, Count: 1
+Author: Babak Shahbaba, Count: 1
+Author: Maria Florina Balcan, Count: 1
+Author: Holger Schmitt, Count: 1
+Author: Yahong Han, Count: 1
+Author: Yingyu Liang, Count: 1
+Author: Emma Brunskill, Count: 1
+Author: Reda Rawi, Count: 1
+Author: Christopher C. Drovandi, Count: 1
+Author: Frank Nielsen, Count: 1
+Author: Erik Ingelsson, Count: 1
+Author: S Wang, Count: 1
+Author: Nathan Hahn, Count: 1
+Author: Yan Xu, Count: 1
+Author: Diptasri Mandal, Count: 1
+Author: Neda Jahanshad, Count: 1
+Author: Mohamed Akil, Count: 1
+Author: Markku O. Kuismin, Count: 1
+Author: Hugo C. Huurdeman, Count: 1
+Author: Ece Kamar, Count: 1
+Author: Yue Hu, Count: 1
+Author: Abhra Sarkar, Count: 1
+Author: Joseph K. Bump, Count: 1
+Author: Fatoumatta Darboe, Count: 1
+Author: L. Leon-Novelo, Count: 1
+Author: Laurence D. Parnell, Count: 1
+Author: J. Shawe-Taylor, Count: 1
+Author: Chih-Ling Tsai, Count: 1
+Author: Abdelkader Baggag, Count: 1
+Author: Xiaoning Peng, Count: 1
+Author: Stephanie Battle, Count: 1
+Author: Robert C. Qiu, Count: 1
+Author: Cheng-Hao Tsai, Count: 1
+Author: Teuvo Tammela, Count: 1
+Author: Weichang Li, Count: 1
+Author: Anneth Tumbo, Count: 1
+Author: Donna K. Arnett, Count: 1
+Author: S. Rahman, Count: 1
+Author: Maiga Chang, Count: 1
+Author: Michael Lim, Count: 1
+Author: Ran-Chao Wu, Count: 1
+Author: Tong Zhang, Count: 1
+Author: Onureena Banerjee, Count: 1
+Author: Nguyen Thanh Hai, Count: 1
+Author: Yuan Yang, Count: 1
+Author: Concepcion Arenas, Count: 1
+Author: Daniel Leongamornlert, Count: 1
+Author: Ping Wang, Count: 1
+Author: Sébastien Andler, Count: 1
+Author: Eleni Ioanna Delatola, Count: 1
+Author: Kai Lu, Count: 1
+Author: Dean E. Beyer, Count: 1
+Author: X Chen, Count: 1
+Author: Jennifer S. Richards, Count: 1
+Author: Aeilko H. Zwinderman, Count: 1
+Author: Sony Hartono Wijaya, Count: 1
+Author: John E. P. Connerney, Count: 1
+Author: Chen Wang, Count: 1
+Author: Lei Han, Count: 1
+Author: Robert A. Stephenson, Count: 1
+Author: François Radvanyi, Count: 1
+Author: S.-M. Chang, Count: 1
+Author: Franklin R. Toapanta, Count: 1
+Author: Louis J. DeTolla, Count: 1
+Author: Manuel Irimia, Count: 1
+Author: Ke Xiong, Count: 1
+Author: Marc Senneret, Count: 1
+Author: Joseph Chee Chang, Count: 1
+Author: Boaz Nadler, Count: 1
+Author: Pal Maurovich-Horvat, Count: 1
+Author: Li Liu, Count: 1
+Author: Christian Merkenschlager, Count: 1
+Author: Jianpeng Xu, Count: 1
+Author: Joong-Ho Won, Count: 1
+Author: Jong-Shi Pang, Count: 1
+Author: Stuart D. Anderson, Count: 1
+Author: Janice A. Nagy, Count: 1
+Author: Hansheng Wang, Count: 1
+Author: Lin Zhang, Count: 1
+Author: Liva Ralaivola, Count: 1
+Author: Hao Chai, Count: 1
+Author: Lingchen Kong, Count: 1
+Author: Francesco Leoli, Count: 1
+Author: Jiayu Zhou, Count: 1
+Author: Yongxiu Cao, Count: 1
+Author: Jie Ren, Count: 1
+Author: Changlu Liu, Count: 1
+Author: Asad Haris, Count: 1
+Author: James D. Doecke, Count: 1
+Author: Lorenzo Ghiadoni, Count: 1
+Author: Yuan-Tao Hao, Count: 1
+Author: Nataliya Sokolovska, Count: 1
+Author: Florentina Bunea, Count: 1
+Author: Pieter J. Hoekstra, Count: 1
+Author: Anhui Huang, Count: 1
+Author: C Caldas, Count: 1
+Author: Choongrak Kim, Count: 1
+Author: Riccardo Guidotti, Count: 1
+Author: Peter Bishop, Count: 1
+Author: Andrew F. Chiarella, Count: 1
+Author: Chuan-Xian Ren, Count: 1
+Author: Bhanukiran Vinzamuri, Count: 1
+Author: C. Soussen, Count: 1
+Author: Michele Bardini, Count: 1
+Author: Angela M. Dean, Count: 1
+Author: Peilin Liu, Count: 1
+Author: Joseph Rigdon, Count: 1
+Author: Jennifer Wong, Count: 1
+Author: Yu Jiang, Count: 1
+Author: Georgios B. Giannakis, Count: 1
+Author: Yoonji Kim, Count: 1
+Author: Saverio Salzo, Count: 1
+Author: Susan M. Lewis, Count: 1
+Author: Liran Goshen, Count: 1
+Author: Irmanida Batubara, Count: 1
+Author: Yves Tramblay, Count: 1
+Author: Heng Lian, Count: 1
+Author: Wei Lan, Count: 1
+Author: null Kinshuk, Count: 1
+Author: Laurent Jaffres, Count: 1
+Author: James Farnham, Count: 1
+Author: Alun Thomas, Count: 1
+Author: Shuluo Ning, Count: 1
+Author: Kenneth Lange, Count: 1
+Author: Andrew J. Gentles, Count: 1
+Author: Lin Y. Xie, Count: 1
+Author: Manuela Cattelan, Count: 1
+Author: Xingjian Wang, Count: 1
+Author: Zhenqiu Liu, Count: 1
+Author: Florence Mougel, Count: 1
+Author: Yinjun Zhao, Count: 1
+Author: David B. Dunson, Count: 1
+Author: John A Hansen, Count: 1
+Author: Shannon K. McDonnell, Count: 1
+Author: Teresa Wu, Count: 1
+Author: Jia Li, Count: 1
+Author: Nils Ternès, Count: 1
+Author: Jaime Arguello, Count: 1
+Author: Karin Romberg, Count: 1
+Author: Thomas E. Bartlett, Count: 1
+Author: Jens Schröter, Count: 1
+Author: Beatrice Nickel, Count: 1
+Author: Henry Hoffmann, Count: 1
+Author: Daniel E. Geraghty, Count: 1
+Author: Robert F Murphy, Count: 1
+Author: Matthieu Perreau, Count: 1
+Author: Cong Li, Count: 1
+Author: Tara K Sigdel, Count: 1
+Author: Tokhir Dadaev, Count: 1
+Author: Ryan J. Parker, Count: 1
+Author: Ofer Shwartz, Count: 1
+Author: Guitao Cao, Count: 1
+Author: Jianying Hu, Count: 1
+Author: David Kil, Count: 1
+Author: Susanne Breitner, Count: 1
+Author: Jeremy B. Sussman, Count: 1
+Author: Adam Penn-Nicholson, Count: 1
+Author: Dianting Liu, Count: 1
+Author: Muxuan Liang, Count: 1
+Author: Kam-Wah Tsui, Count: 1
+Author: Qin Zhang, Count: 1
+Author: Ben W. Mol, Count: 1
+Author: Seward B. Rutkove, Count: 1
+Author: Marian Kotas, Count: 1
+Author: Waheed U. Bajwa, Count: 1
+Author: G. Pollara, Count: 1
+Author: Anna Bornefalk-Hermansson, Count: 1
+Author: M. D. Swartz, Count: 1
+Author: Dino Pedreschi, Count: 1
+Author: Ryen W. White, Count: 1
+Author: Giuseppe Pantaleo, Count: 1
+Author: Elina M. Kaikkonen, Count: 1
+Author: Xuantong Chen, Count: 1
+Author: Yalin Wang, Count: 1
+Author: Talal Ahmed, Count: 1
